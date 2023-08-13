@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="40" height="40" viewBox="0 0 40 40" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 20 20)" id="8d14aa09-7855-4fce-9cc6-f8bf989cb4bd"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-20" y="-20" rx="0" ry="0" width="40" height="40" />
+</g>
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="e4672ea3-27c9-46bc-a31f-57aee30caf13"  >
+</g>
+<g transform="matrix(1 0 0 1 20 20)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(235,232,253); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-20" y="-20" rx="8" ry="8" width="40" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 20 20)" id="Vector" clip-path="url(#CLIPPATH_3)"  >
+<clipPath id="CLIPPATH_3" >
+	<rect transform="matrix(1 0 0 1 0.42 0)" id="clip0_0_483" x="-10" y="-10" rx="0" ry="0" width="20" height="20" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,72,238); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-9.58, -10)" d="M 15.8333 4.16667 L 15.8333 7.5 L 3.33332 7.5 L 3.33332 4.16667 L 15.8333 4.16667 Z M 15.8333 12.5 L 15.8333 15.8333 L 3.33332 15.8333 L 3.33332 12.5 L 15.8333 12.5 Z M 16.6667 2.5 L 2.49999 2.5 C 2.04166 2.5 1.66666 2.875 1.66666 3.33333 L 1.66666 8.33333 C 1.66666 8.79167 2.04166 9.16667 2.49999 9.16667 L 16.6667 9.16667 C 17.125 9.16667 17.5 8.79167 17.5 8.33333 L 17.5 3.33333 C 17.5 2.875 17.125 2.5 16.6667 2.5 Z M 16.6667 10.8333 L 2.49999 10.8333 C 2.04166 10.8333 1.66666 11.2083 1.66666 11.6667 L 1.66666 16.6667 C 1.66666 17.125 2.04166 17.5 2.49999 17.5 L 16.6667 17.5 C 17.125 17.5 17.5 17.125 17.5 16.6667 L 17.5 11.6667 C 17.5 11.2083 17.125 10.8333 16.6667 10.8333 Z" stroke-linecap="round" />
+</g>
+</svg>
